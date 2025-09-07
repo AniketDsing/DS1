@@ -1,10 +1,17 @@
-# Data Science Projects
-This repository contains scripts for data cleaning, analysis, ML models, and visualizations.  
+# Data Science Portfolio
 
-## Folder Structure
-01_Data_Cleaning - Scripts to clean datasets  
-02_Exploratory_Analysis - EDA scripts  
-03_Machine_Learning - ML models  
-04_Deep_Learning - Neural network models  
-05_Visualization - Charts and plots  
-06_Datasets - Example datasets used
+Welcome to my Data Science Portfolio! This repository showcases my projects, analyses, and skills in data science. Here you will find various projects that demonstrate my ability to handle data, build models, and derive insights.
+
+## Projects
+
+Explore the `projects` folder to see the different data science projects I have worked on.
+
+## Summary Notebook
+
+The `summary_notebook.ipynb` contains a comprehensive overview of my work and key takeaways from my projects.
+
+## Resume
+
+A placeholder for my resume can be found in the `resume.pdf`. 
+
+Feel free to reach out with any questions or collaboration opportunities!
