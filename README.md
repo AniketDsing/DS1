@@ -1,17 +1,31 @@
-# Data Science Portfolio
+# 👋 Hi, I'm Aniket
 
-Welcome to my Data Science Portfolio! This repository showcases my projects, analyses, and skills in data science. Here you will find various projects that demonstrate my ability to handle data, build models, and derive insights.
+I'm a detail-driven data enthusiast who thrives on solving complex technical puzzles. Whether it's optimizing workforce schedules in Excel or untangling MySQL error codes, I bring precision, persistence, and a love for clean logic to every challenge.
 
-## Projects
+## 🔧 Skills & Tools
 
-Explore the `projects` folder to see the different data science projects I have worked on.
+- **Excel Mastery**: Dynamic arrays, advanced formulas (`SEQUENCE`, `SORTBY`, `COUNTIFS`), scheduling logic, FTE calculations  
+- **SQL & MySQL**: Query optimization, safe update mode handling, error troubleshooting (`1175`, `3948`, `2068`, `1046`, `1050`)  
+- **Data Workflows**: Import/export between Excel & MySQL, GUI and CLI fluency  
+- **Problem Solving**: Root cause analysis, system PATH fixes, iterative debugging
 
-## Summary Notebook
+## 📈 Recent Projects
 
-The `summary_notebook.ipynb` contains a comprehensive overview of my work and key takeaways from my projects.
+- 🗓️ Built dynamic date lists in Excel with month-boundary logic  
+- 🧮 Refined workforce planning models using schedule counts and FTE logic  
+- 🐛 Diagnosed MySQL import/update errors and enabled `local_infile` for seamless data loads  
+- ⚙️ Resolved system PATH issues to enable MySQL CLI operations
 
-## Resume
+## 🧠 What Drives Me
 
-A placeholder for my resume can be found in the `resume.pdf`. 
+I believe in understanding the "why" behind every fix. Quick solutions are great—but elegant, repeatable logic is better. I enjoy diving deep into technical challenges and emerging with insights that improve workflows and save time.
 
-Feel free to reach out with any questions or collaboration opportunities!
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(replace with your link)*  
+- 📁 [Portfolio](https://your-portfolio-link.com) *(optional)*  
+- 📫 Reach me at: `your.email@example.com`
+
+---
+
+> “Precision is not just a skill—it’s a mindset.”
